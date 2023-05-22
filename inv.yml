@@ -1,8 +1,8 @@
 [qaserver]
-54.234.170.95
+54.152.107.190
 
 [devserver]
-3.92.182.107
+18.205.160.65
 
 #[children:devqa]  
 #qasever
